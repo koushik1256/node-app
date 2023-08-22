@@ -20,4 +20,4 @@ COPY . .
 EXPOSE 8080
 CMD [ "npm", "start" ]
 
-# air pollution is increasing 
+# magic
