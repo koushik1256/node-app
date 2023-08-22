@@ -20,4 +20,4 @@ COPY . .
 EXPOSE 8080
 CMD [ "npm", "start" ]
 
-# magic
+# humans are inteligent species
