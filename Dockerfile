@@ -20,4 +20,4 @@ COPY . .
 EXPOSE 8080
 CMD [ "npm", "start" ]
 
-# hello this koushik
+# we are practising
